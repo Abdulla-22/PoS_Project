@@ -4,8 +4,8 @@ Version: 1.0
 Last Revised: 12/22/2023
 Project name: Practical_Project_PoS
 Filename: main.cpp
-Student: (Abdulla Yusuf - Abdulla Ali - Ali Almoot - Mujtaba Obaid)
-Student ID: ( 202101197 - 202102327 - 202102922 - 202101622 )
+Student: (Abdulla Yusuf)
+Student ID: ( 202101197 )
 Course and Assignment Numbers: (EN6001 Program point-of-sale (PoS))
 
 
@@ -16,8 +16,8 @@ Course and Assignment Numbers: (EN6001 Program point-of-sale (PoS))
                          Some important information to start the program
 -------------------------------------------------------------------------------------------------
 
-1- Cashier ID – (B0131801) Cashier password – (RJ318001).
-2- Admin ID – (AD131801) Admin password – (RJ318AD1).
+1- Cashier ID â€“ (B0131801) Cashier password â€“ (RJ318001).
+2- Admin ID â€“ (AD131801) Admin password â€“ (RJ318AD1).
 3- All card number will work with the program.
 4- Just one card have a balance of 1000BD for the purpose of verification of the account balance
 (Card number: 4556737586899855, The PIN:9 855, The balance:1000).
