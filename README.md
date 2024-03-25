@@ -35,7 +35,7 @@ List the main features or functionalities of your C++ program.
 
 Provide instructions on how to get started with the project. Include any prerequisites, installation steps, or configuration instructions.
 
-To run the programe use the following line:
+To run the programe `main.exe` use the following line:
 
 ```shell
 ./main
