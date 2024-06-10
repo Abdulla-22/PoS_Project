@@ -16,7 +16,6 @@
 
 To use this Point-of-Sale (PoS) program effectively, please note the following credentials and guidelines:
 
-<<<<<<< HEAD
 1. **Cashier Access:**
    - **ID:** B0131801
    - **Password:** RJ318001
@@ -32,12 +31,6 @@ To use this Point-of-Sale (PoS) program effectively, please note the following c
    - **PIN Calculation:** The PIN is derived from the last four digits of the card number.
    - **Example:** For card number 4342077277183288, the PIN is 3288.
 4. **Card Entry:** Enter card numbers without spaces.
-=======
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
->>>>>>> 4b1839eef5e4d0cf0c12817a6f36b00125344a6a
 
 ---
 
@@ -49,11 +42,7 @@ To use this Point-of-Sale (PoS) program effectively, please note the following c
    - Enter **1** to access **Admin Mode**.
    - Enter **2** to access **Customer Mode**.
 
-<<<<<<< HEAD
 ### Admin Mode:
-=======
-To run the programe `main.exe` use the following line:
->>>>>>> 4b1839eef5e4d0cf0c12817a6f36b00125344a6a
 
 1. **Admin Authentication:**
    - Prompted for Admin ID and Password.
@@ -109,7 +98,6 @@ Date         Time     Transaction ID   Card no.    Amount in BHD   Status
 
 ### Detailed Steps for Testing:
 
-<<<<<<< HEAD
 1. **Starting the Program:**
    - The program initiates on the Main Page.
    - Choose **2** to enter Customer Mode.
@@ -154,6 +142,3 @@ By encapsulating functionality within specific functions and utilizing structure
 ---
 
 For further details or assistance, please refer to the program source code in `main.cpp` or contact the student developer, Abdulla Yusuf.
-=======
-Specify if you are open to contributions and provide guidelines for how other developers can contribute to your project.
->>>>>>> 4b1839eef5e4d0cf0c12817a6f36b00125344a6a
